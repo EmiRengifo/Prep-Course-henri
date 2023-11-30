@@ -1,2 +1,1 @@
-# Prep-Course-henri
-Este es un repositorio de prueba del m2 de henri
+este proyecto esz una prueba de como crear un repositorio y clonarlo desde guthub a mi terminal
